@@ -29,9 +29,3 @@ Paryatana is the front-end website for travel agency. The website has all detail
 ## Want to contribute?
 - Take a look at [`contributing guidelines`](Contributing.md) if you're interested in contributing!
 - Refer [GitHub Flow](https://guides.github.com/introduction/flow).
-
-## The heart of this project are our contributors : 
-
-<a href="https://github.com/Arun9739/Paryatana/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Arun9739/Paryatana"/>
-</a>
