@@ -2,7 +2,6 @@
 A front-end website for travel agency.
 <br><br>
 
-<p align="center"> https://arun9739.github.io/Paryatana/ </p>
 <h1 align="center"> Paryatana </h1>
 
 <p align="center">
